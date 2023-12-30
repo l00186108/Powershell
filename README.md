@@ -10,6 +10,7 @@ a variety of different fundtions in Powershell, such as Loops, Conditional Branc
 1. [Setting Execution Policy](#setting-execution-policy)
 2. [Downloading and Installing PowerShell 7](#downloading-and-installing-powerShell-7)
 3. [Custom PowerShell Module](#custom-powershell-module)
+4. [Custom DHCP Server](#custom-dhcp-server)
 
 ## Setting the Execution Policy
 Set the execution policy to RemoteSigned with Force flag to override restrictions. By default, Powershell will not allow a user tun scripts, even as an administrtaor on the device. After running this execution policy, powershell will allow the user to run scripts.
