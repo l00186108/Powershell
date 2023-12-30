@@ -18,7 +18,7 @@ Set the execution policy to RemoteSigned with Force flag to override restriction
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force
 ```
 ## Downloading and Installing PowerShell 7
-The following commands will download and install PowerShell 7. Micorsoft hvae this generic script they have made available to install PowerShell:
+The following commands will download and install PowerShell 7. Microsoft have this generic script they have made available to install PowerShell:
 
 ```powershell
 # Download the PowerShell 7 installation script
